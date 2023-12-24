@@ -1,0 +1,17 @@
+.card {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    background: rgb(222, 226, 236)
+
+}
+
+.card img {
+    max-width: 200px;
+    border-radius: 10px;
+
+}
